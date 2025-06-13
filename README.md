@@ -8,3 +8,22 @@ String necpass = new String(new byte[]{-31,-127,-127,-31,-127,-126,-31,-127,-125
 		
 String decTenc=DecKoNyi.encryptToBase64String(necconfig,necpass);
 		
+
+
+Short Des
+
+Myanmar and Thai 2D/D3D Live Show App.
+
+
+long des
+
+Warmly welcome to our application. This app type is record of Thai Stock Market Data. You can look Free 2D3D Number in this app. Thanks for choosing our app.
+
+
+privacy 
+
+https://allkarnamate.blogspot.com/2025/06/privacypolicy.html?m=1
+
+app ads 
+
+https://allkarnamate.blogspot.com/
