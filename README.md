@@ -29,12 +29,4 @@ app ads
 https://allkarnamate.blogspot.com/
 
 
-thokegyi8@gmail.com  kyaw0000
-nyibusiness5@gmail.com  nyimetun
-senoritariany@gmail.com	Zaiacc23
-covsieanler@gmail.com	Zaiacc23
-souaouln@gmail.com	Zaiacc23
-dosuiagu@gmail.com	Zaiacc23
-eouigau@gmail.com	Zaiacc23
-asouions@gmail.com	Zaiacc23
 
