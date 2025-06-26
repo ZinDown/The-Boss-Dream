@@ -28,5 +28,6 @@ app ads
 
 https://allkarnamate.blogspot.com/
 
+Key For PC
 
-
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.248.235:2376#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.150.248.235%3A2376
