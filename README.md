@@ -1,78 +1,165 @@
+package com.buurep.joegyi.activities;
 
-app ads 
+import android.content.Intent;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
+import android.os.Bundle;
+import android.os.CountDownTimer;
+import android.os.Handler;
+import android.widget.ProgressBar;
 
-https://allkarnamate.blogspot.com/
+import androidx.appcompat.app.AlertDialog;
+import androidx.appcompat.app.AppCompatActivity;
 
+import org.json.JSONObject;
 
+import java.util.TimeZone;
 
-1. How did you recruit users for your closed test?
+public class NewSpalsh extends AppCompatActivity {
 
-Answer:
+    // ===== Fields (smali fields mapping) =====
+    String A;
+    String B;          // API မှလာတဲ့ string
+    String C;
+    String D;          // TimeZone ID (device)
+    boolean E = false; // Activity decision flag
 
-> We invited testers through direct sharing of the Play Store testing link among friends, local community groups, and social media where our target users are active. Most testers were recruited from Myanmar, where users follow Thai 2D/3D results for entertainment and reference.
+    ProgressBar x;
+    CountDownTimer w;
 
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_new_spalsh);
 
+        x = findViewById(R.id.progressBar);
 
+        // 🔹 TimeZone ကို D ထဲယူထားတာ (အဓိက point)
+        D = TimeZone.getDefault().getID();
+        // example: "Asia/Yangon", "Asia/Tokyo"
 
----
+        // 🔹 Internet check
+        if (!isConnected()) {
+            showNoInternetDialog();
+            return;
+        }
 
-2. How easy was it to recruit testers for your app?
+        // 🔹 API Call (network request)
+        callApi();
+    }
 
-Answer:
+    // ================= API CALL =================
+    private void callApi() {
+        /*
+         * Smali:
+         * R0.a.g0(this).a(new T0/g(url, success, error))
+         *
+         * အောက်မှာ simulation လုပ်ထားတယ်
+         */
 
-> It was relatively easy to recruit testers because many users are already familiar with Thai 2D/3D results and were interested in having an easy-to-use app to check updates. We reached the required number of testers quickly through word of mouth and Facebook groups.
+        new Handler().postDelayed(() -> {
+            try {
+                // ===== Simulated API JSON =====
+                JSONObject json = new JSONObject();
+                json.put("status", true);
 
+                // B = allowed timezones / keywords
+                json.put("B", "Asia/Yangon,Asia/Tokyo,Asia/Singapore");
 
+                // success callback
+                onApiSuccess(json);
 
+            } catch (Exception e) {
+                onApiFail();
+            }
+        }, 800);
+    }
 
----
+    // ================= API SUCCESS =================
+    private void onApiSuccess(JSONObject json) {
+        try {
+            boolean status = json.getBoolean("status");
 
-3. Provide a summary of the feedback that you received from testers. Include how you collected the feedback.
+            if (status) {
+                B = json.getString("B");
 
-Answer:
+                // 🔹 B ကို split
+                String[] items = B.split(",");
 
-> We collected feedback through direct messaging and informal surveys via Facebook and Telegram. Users shared that they liked the simplicity of the app, fast loading time, and clear presentation of results. Some requested additional result history and notification options.
+                // 🔹 D (TimeZone) နဲ့ compare
+                for (String item : items) {
+                    if (D.contains(item.trim())) {
+                        E = true;   // ⭐ FLAG SET
+                        break;
+                    }
+                }
 
+                startTimer();
 
+            } else {
+                startTimer();
+            }
 
+        } catch (Exception e) {
+            startTimer();
+        }
+    }
 
----
+    private void onApiFail() {
+        startTimer();
+    }
 
-4. Who is the intended audience of your app?
+    // ================= TIMER =================
+    private void startTimer() {
+        w = new CountDownTimer(1500, 500) {
+            @Override
+            public void onTick(long millisUntilFinished) { }
 
-Answer:
+            @Override
+            public void onFinish() {
+                goNext();
+            }
+        }.start();
+    }
 
-> The app is intended for adult users (18+) in Myanmar and nearby regions who are interested in checking Thai 2D/3D results for reference or entertainment. The app does not target children or promote gambling.
+    // ================= NEXT ACTIVITY DECISION =================
+    private void goNext() {
 
+        /*
+         * Decompiled logic:
+         *
+         * if (E != 0)
+         *   Main_Asone_Activity
+         * else
+         *   Main_Activity
+         */
 
+        if (E) {
+            startActivity(new Intent(this,
+                    com.buurep.joegyi.asone.Main_Asone_Activity.class));
+        } else {
+            startActivity(new Intent(this,
+                    com.buurep.joegyi.sport.Main_Activity.class));
+        }
 
+        finish();
+    }
 
----
+    // ================= INTERNET =================
+    private boolean isConnected() {
+        ConnectivityManager cm =
+                (ConnectivityManager) getSystemService(CONNECTIVITY_SERVICE);
+        NetworkInfo net = cm.getActiveNetworkInfo();
+        return net != null && net.isConnected();
+    }
 
-5. Describe how your app provides value to users
-
-Answer:
-
-> AllKar Namate provides a simple and fast way for users to view Thai stock-based 2D and 3D results. Instead of searching websites or Facebook pages, users can check results in one tap, making the process more convenient and user-friendly.
-
-
-
-
----
-
-6. What changes did you make to your app based on what you learned during your closed test?
-
-Answer:
-
-> Based on tester feedback, we improved the layout for better readability, fixed minor bugs affecting result refresh, and optimized the performance for low-end devices. We also made sure to reduce unnecessary permissions to comply with user privacy.
-
-
-
-
----
-
-7. How did you decide that your app is ready for production?
-
-Answer:
-
-> After completing 14 days of closed testing with no major issues reported and receiving positive feedback about usability and stability, we believe the app is ready for a wider release. We have tested across multiple devices and ensured full policy compliance.
+    // ================= DIALOG =================
+    private void showNoInternetDialog() {
+        new AlertDialog.Builder(this)
+                .setTitle("No Internet")
+                .setMessage("Please check your connection")
+                .setCancelable(false)
+                .setPositiveButton("OK", (d, w) -> finish())
+                .show();
+    }
+}
