@@ -24,3 +24,7 @@ https://dannbayo.blogspot.com/2025/06/privacypolicy.html?m=1
 for ads.txt
 
 https://dannbayo.blogspot.com
+
+
+
+This app provides users with a simple and enjoyable chat experience designed for Myanmar users. It includes interactive 2D and 3D visual elements that make conversations more engaging while keeping the app easy to use and reliable for everyday communication.
