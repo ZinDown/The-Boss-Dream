@@ -1,60 +1,61 @@
+# Part 1: Tell us about your closed test
+********
+## Q1. How did you run your closed test?
+Answer (English):
+```bash
+We conducted the closed test using Google Play’s closed testing track. Testers were invited via opt-in links. The test focused on data display accuracy, Live2D UI performance, app stability, and overall user experience.
+```
+## Q2. How many testers did you have and who were they?
+Answer (English):
+```bash
+The closed test included volunteer testers and acquaintances. Testers used different Android devices and OS versions to verify compatibility and consistent data presentation.
+```
+## Q3. How long did your closed test last?
+Answer (English):
+```bash
+The closed test was conducted for more than 14 days to ensure sufficient feedback and validation of app stability.
+```
+## Q4. What kind of feedback did you collect?
+Answer (English):
+```bash
+We collected feedback related to UI clarity, Live2D animation performance, data loading speed, and minor usability improvements.
+```
 
-❓ 1. How did you recruit testers for your app?
+# Part 2: Tell us about your app
+**********
+## Q1. What does your app do?
+Answer (English):
+```bash
+The app provides informational data related to 2D live updates, daily results, and historical records for 2D and 3D numbers. The content is presented in a clear and easy-to-understand format for educational and personal reference purposes only.
+```
+## Q2. Who is the intended audience of your app?
+Answer (English):
+```bash
+The app is intended for general users who want to view and study 2D and 3D number data for educational and informational purposes. It is not designed for gambling or betting activities.
+```
+## Q3. How does your app provide value to users?
+Answer (English):
+```bash
+The app allows users to conveniently access live updates, daily results, and historical data in one place. This helps users analyze patterns and review past records for personal learning and reference.
+```
 
-✅ Safe Answer (Copy & Paste OK)
-
-I recruited testers through online communities and social platforms by inviting interested users to participate in closed testing. Testers voluntarily joined using their own Google accounts and devices to help evaluate app stability, usability, and performance.
-
-📌 “Facebook strangers” ဆိုပြီး တန်းမရေး
-📌 “online communities / social platforms” လို့ရေး → OK
-
-❓ 2. How did testers use your app during testing?
-
-✅ Safe Answer
-
-Testers installed the app from the Play Store testing track and used it naturally on their personal Android devices. They explored core features, navigated different screens, and provided general usability feedback during the testing period.
-
-❓ 3. How did you collect feedback from testers?
-
-✅ Safe Answer
-
-Feedback was collected through Play Store reviews and direct messages. I also observed usage behavior and crash reports in Play Console to identify stability and performance issues.
-
-❓ 4. What changes did you make based on testing?
-
-✅ Safe Answer
-
-Based on tester feedback, I improved app stability, fixed minor UI issues, optimized performance, and ensured smoother navigation between screens. No major functional changes were required, but overall usability was refined.
-
-(မပြင်လည်း “minor improvements” လို့ရေး OK)
-
-Based on tester feedback, I made minor improvements to UI consistency, performance stability, and overall usability. No major functional changes were required.
-
-
-❓ 5. How did you decide your app is ready for production?
-
-✅ Safe Answer
-
-After maintaining at least 12 testers for 14 consecutive days, observing stable performance, no critical crashes, and positive usability feedback, I determined that the app meets quality and policy requirements and is ready for production release.
-
-❓ 6. Did testers use real devices and accounts?
-
-✅ Safe Answer (အရေးကြီး ⭐)
-
-Yes. Testers used real Android devices and their own Google accounts to install and test the app through the official Play Store testing track.
-
-❓ 7. Is your app ready for a wider audience?
-
-✅ Safe Answer
-
-Yes. The app has been tested for stability, basic functionality, and usability. Based on testing results and Play Console metrics, I am confident it is ready for public release.
-
-
-
-We improved stability, fixed bugs identified during testing, and optimized performance to ensure a smooth user experience.
-
-The app was considered ready after testing confirmed stable performance and proper functionality without critical issues.
-
+# Part 3: Tell us about your production readiness
+********
+## Q1. What changes did you make based on testing feedback?
+Answer (English):
+```bash
+We improved app stability, optimized data loading performance, refined Live2D UI interactions, and fixed minor bugs identified during the closed test.
+```
+## Q2. Why is your app ready for production?
+Answer (English):
+```bash
+Testing confirmed that the app functions reliably, displays data accurately, and has no critical issues. All core features work as intended for informational use.
+```
+## Q3. How does your app comply with Google Play policies?
+Answer (English):
+```bash
+The app is designed strictly for educational and informational purposes. It does not support gambling, betting, or financial transactions, and clearly communicates this through its Terms of Use and app description.
+```
 *********************
 
 Dann Ba Yo App
