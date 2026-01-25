@@ -30,5 +30,11 @@ We determined the app was ready for production after completing more than 14 day
 
 
 
+For 4
+
+This time, we extended the testing period, included more diverse devices and Android versions, and focused more on real-world usage. We actively collected feedback and addressed issues more quickly based on tester reports.
+
+
+
 
 
