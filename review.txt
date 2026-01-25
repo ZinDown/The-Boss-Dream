@@ -21,3 +21,14 @@ The app is intended for general users who want to view and study 2D and 3D numbe
 
 The app provides value by allowing users to easily access live updates, daily results, and historical 2D and 3D data in one place. This helps users review records, study patterns, and reference information conveniently for educational use.
 
+
+For 3
+
+Based on closed test feedback, we improved app stability, optimized data loading speed, refined UI and Live2D interactions, and fixed minor bugs to enhance overall performance and user experience.
+
+We determined the app was ready for production after completing more than 14 days of closed testing, resolving reported issues, confirming stable performance, accurate data display, and verifying that all core features function reliably as intended.
+
+
+
+
+
