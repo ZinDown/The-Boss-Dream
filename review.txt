@@ -1,0 +1,20 @@
+
+1
+
+We recruited testers by inviting volunteers from personal contacts and relevant online communities. 
+Participants opted in using the official Google Play closed testing link and tested the app on their own devices. 
+The goal was to collect real-world feedback on stability, performance, and user experience.
+
+
+2
+
+Testers actively engaged with the app throughout the closed testing period. 
+They used the app regularly to check data updates, interact with the Live2D UI, and explore historical records. 
+Feedback was provided through direct messages and informal reports, helping us identify minor UI issues, performance improvements, and stability-related fixes.
+
+
+3
+We received constructive feedback from testers during the closed testing period. 
+Feedback was collected through direct messages and informal reports after testers used the app on their own devices. 
+Testers reported suggestions related to UI clarity, Live2D animation smoothness, data loading speed, and minor usability improvements. 
+Based on this feedback, we optimized performance, refined UI interactions, and fixed minor stability issues.
