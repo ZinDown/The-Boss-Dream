@@ -10,3 +10,14 @@ Testers actively used the app during the test period, explored core features, an
 
 3
 Feedback was collected through direct messages and tester reports. Testers shared suggestions on UI clarity, performance, data loading speed, and minor usability improvements, which were fixed before release.
+
+
+
+For 2
+
+The app is intended for general users who want to view and study 2D and 3D number data for educational and informational purposes only. It is not designed for gambling, betting, or financial activities.
+
+
+
+The app provides value by allowing users to easily access live updates, daily results, and historical 2D and 3D data in one place. This helps users review records, study patterns, and reference information conveniently for educational use.
+
