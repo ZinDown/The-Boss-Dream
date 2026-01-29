@@ -1,17 +1,4 @@
-TelephonyManager tm =
-            (TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE);
 
-        String simCountry = tm.getSimCountryIso(); 
-        if (simCountry != null && !simCountry.isEmpty()) {
-       
-            time.setText(D+"\n"+simCountry);
-        
-        
-        }
-        else{
-            time.setText(D);
-            
-        }
 
 *********************
 
