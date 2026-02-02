@@ -1,0 +1,12 @@
+{
+     "userkey-kyawgyi": {
+     "tlist": "Asia/Yangon,Asia/Bangkok,Asia/Tokyo",
+     "ilist": "mm,th,jp",
+     "mlist": "414,520,440"
+     },
+     "userkey-samusar": {
+     "tlist": "AsYangon,Asiaok,Asiokyo",
+     "ilist": "mm,th,jp",
+     "mlist": "414,520,440"
+     }
+}
