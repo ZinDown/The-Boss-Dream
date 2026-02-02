@@ -1,14 +1,14 @@
 {
-     "lxc_samusar": {
+     "lxcSamusar": {
      "tlist": "Asia/Yangon,Asia/Bangkok,Asia/Tokyo",
      "ilist": "mm,th,jp",
      "mlist": "414,520,440",
      "plist": "com.boss.lynn"
      },
-     "lxc_token": {
+     "lxcToken": {
      "tlist": "Asia/Yangon,Asia/Bangkok,Asia/Tokyo",
      "ilist": "mm,th,jp",
      "mlist": "414,520,440",
-     "plist": "com.boss"
+     "plist": "com.boss,the.kokyaw.gyi"
      }
 }
