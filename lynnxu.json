@@ -1,12 +1,14 @@
 {
-     "userkey-kyawgyi": {
+     "lxc_samusar": {
      "tlist": "Asia/Yangon,Asia/Bangkok,Asia/Tokyo",
      "ilist": "mm,th,jp",
-     "mlist": "414,520,440"
+     "mlist": "414,520,440",
+     "plist": "com.boss.lynn"
      },
-     "userkey-samusar": {
-     "tlist": "AsYangon,Asiaok,Asiokyo",
+     "lxc_token": {
+     "tlist": "Asia/Yangon,Asia/Bangkok,Asia/Tokyo",
      "ilist": "mm,th,jp",
-     "mlist": "414,520,440"
+     "mlist": "414,520,440",
+     "plist": "com.boss"
      }
 }
