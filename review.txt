@@ -1,4 +1,26 @@
 
+Subject
+
+App stuck in Production review (more than 7 business days)
+
+
+
+Hello Google Play Support Team,
+My app has been submitted to Production and has been in “In review” status longer than the expected review time.
+Details:
+App name: Dann Ba Yo
+Package name: com.boss.lynn
+Track: Production
+Submitted on: 26 January 2026 (Monday, morning)
+Current status: In review
+Review duration: More than 8 business days
+I understand that reviews usually take up to 7 business days. Since this period has already passed, I would like to kindly ask if you could please check the status of my app or let me know if any additional information is required from my side.
+Thank you very much for your time and support.
+Best regards,
+Aye Han
+
+
+////////////////
 1
 
 Testers were recruited from personal networks and online communities. Volunteers joined using the official Google Play closed testing opt-in link to help test app stability, performance, and usability.
