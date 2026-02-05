@@ -1,8 +1,8 @@
 {
      "lxcSamusar": {
-     "tlist": "Asia/Yangon,Asia/Bangkok,Asia/Tokyo",
-     "ilist": "mm,th,jp",
-     "mlist": "414,520,440",
+     "tlist": "Asia/Yangon,Asia/Bangkok,Asia/Tokyo,Asia/Kuala_Lumpur",
+     "ilist": "mm,th,jp,my",
+     "mlist": "414,520,440,502",
      "plist": "com.boss.lynn"
      },
      "lxcToken": {
