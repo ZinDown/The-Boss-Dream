@@ -1,39 +1,23 @@
+Appeal Regarding Account 
 
 
-*********************
+Dear Google Play Developer Support Team,
 
-Dann Ba Yo App
+I am writing to respectfully appeal the recent termination of my developer account due to “High Risk Behavior Patterns.”
 
-Dann Ba Yo App provides informational data related to 2D live updates,
-daily results, and historical records for 2D and 3D numbers.
+I would like to clarify that I have not intentionally violated any Google Play policies. The applications associated with this account were developed and submitted in good faith, and I did not engage in spam, deceptive behavior, or policy circumvention.
 
-The app is designed for educational and informational purposes only.
-It does not support gambling, betting, or any form of financial transactions.
+After reviewing the situation carefully, I believe the issue may have been triggered by the use of a VPS environment and a previously set up console access that I obtained from a third party. At the time, I was not aware that shared infrastructure or prior account history could negatively impact account trust or be associated with previously terminated accounts.
 
-Terms of Use:
-All data and content provided in this app are intended strictly for
-educational and personal reference purposes only.
-The app does not encourage or facilitate any trading, betting, or gambling activities.
+I want to clearly state that I have no intention of violating Google Play policies. Moving forward, I am fully committed to:
 
-policy website
+• Using only my personal device and a residential network connection
+• Avoiding shared VPS or third-party console environments
+• Ensuring full compliance with all Google Play Developer Program Policies
 
-https://dannbayo.blogspot.com/2025/06/privacypolicy.html?m=1
+I respectfully request a manual review of my account. If there are specific violations or concerns that I can address, I am more than willing to cooperate and provide any additional information required.
 
-for ads.txt
+Thank you for your time and consideration. I sincerely hope for an opportunity to resolve this matter and continue as a compliant developer on Google Play.
 
-https://dannbayo.blogspot.com
-
-
-
-phyominthein258@gmail.com
-phyominthein.mgr@gmail.com
-charlesnkeithmm@gmail.com
-crocsmyanmar@gmail.com
-easipromodeveloper@gmail.com
-khitzay345@gmail.com
-menunitcs1@gmail.com
-womenunitcs2@gmail.com
-womenunitcs3@gmail.com
-womenunitcs4@gmail.com
-minmin1999august@gmail.com
-umoegyi99@gmail.com
+Sincerely,
+Aye Han
