@@ -1,8 +1,8 @@
 {
      "lxcSamusar": {
-     "tlist": "Asia/YangonKo,Asia/Bangkok,Asia/Kuala_Lumpur,Asia/Seoul",
-     "ilist": "mmKo,th,my,kr",
-     "mlist": "414Ko,520,502,450",
+     "tlist": "Asia/Yangon,Asia/Bangkok,Asia/Kuala_Lumpur,Asia/Seoul",
+     "ilist": "mm,th,my,kr",
+     "mlist": "414,520,502,450",
      "plist": "com.boss.ioohu"
      },
      "lxcToken": {
