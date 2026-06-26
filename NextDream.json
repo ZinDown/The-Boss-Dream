@@ -55,7 +55,7 @@
     {
       "chat_id": 101,
       "messages": [
-        { "message": "အစ်ကိုရေ.. ဒီနေ့ အလုပ်ကိစ္စလေးတစ်ခုနဲ့ ငွေကြေးအကျပ်အတည်းလေး နည်းနည်းဖြစ်နေလို့ပါဗျာ။ လိုအပ်နေတဲ့ပမာဏကို အခုပဲ လွှဲလိုက်ပါတော့မယ်။", "is_me": false, "is_image": false },
+        { "message": "အစ်ကိုရေ.. ဒီနေ့ အလုပ်ကိစ္စလေးတစ်ခုနဲ့ ငွေကြေးအကျပ်အတည်းလေး နည်းနည်းဖြစ်နေလို့ပါ။ လိုအပ်နေတဲ့ပမာဏကို အခုပဲ လွှဲလိုက်ပါတော့မယ်။", "is_me": false, "is_image": false },
         { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေလွှဲဝင်မဝင်ကို စစ်ဆေးပေးပါ့မယ် ခဏလေးစောင့်ပေးနော်၊ အခုချက်ချင်း ထည့်ပေးပါ့မယ်။", "is_me": true, "is_image": false },
         { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
         { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ 😊🙏", "is_me": true, "is_image": false },
@@ -65,491 +65,141 @@
     {
       "chat_id": 102,
       "messages": [
-        { "message": "ညီမလေးရေ.. ဒီလ မိသားစုအခက်အခဲလေးတွေပေါ်လာလို့ ငွေလေးနည်းနည်း လိုအပ်နေလို့ပါ။ အခုပဲ Wave ကနေ ငွေလွှဲပေးလိုက်ပါပြီနော်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေဝင်တာကို စစ်ဆေးပေးပါ့မယ်ရှင်၊ မပူပါနဲ့နော် အခုပဲ ချက်ချင်း ဖြည့်ပေးလိုက်ပါမယ်။", "is_me": true, "is_image": false },
+        { "message": " ဒီလ မိသားစုအခက်အခဲလေးတွေပေါ်လာလို့ ငွေလေးနည်းနည်း လိုအပ်နေလို့ပါ။ အခုပဲ Wave ကနေ ငွေလွှဲပေးလိုက်ပါပြီနော်။", "is_me": false, "is_image": false },
+        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေဝင်တာကို စစ်ဆေးပေးပါ့မယ် မပူပါနဲ့နော် အခုပဲ ချက်ချင်း ဖြည့်ပေးလိုက်ပါမယ်ခင်ဗျ။", "is_me": true, "is_image": false },
         { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
         { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ 💖🎉", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပြီဆိုတော့ အရမ်းကျေးဇူးတင်ပါတယ်ရှင်။ name က တကယ် စိတ်ချရပြီး လျင်မြန်လို့ အဆင်ပြေပါတယ်။ နောက်လည်း အမြဲလိုလို ဆက်အားပေးပါ့မယ်။ အားလုံးအတွက် ကျေးဇူးပါနော်။ 👏💯", "is_me": false, "is_image": false }
+        { "message": "ရောက်သွားပြီဆိုတော့ အရမ်းကျေးဇူးတင်ပါတယ်။😍 name က တကယ် စိတ်ချရပြီး လျင်မြန်လို့ အဆင်ပြေပါတယ်။ နောက်လည်း အမြဲလိုလို ဆက်အားပေးပါ့မယ်။ အားလုံးအတွက် ကျေးဇူးပါနော်။ 👏💯", "is_me": false, "is_image": false }
       ]
     },
     {
       "chat_id": 103,
       "messages": [
-        { "message": "မင်္ဂလာပါဗျာ။ သူငယ်ချင်းက ငွေလွှဲခိုင်းထားလို့ KPay ကနေ အခုပဲ လွှဲလိုက်ပါတယ်။ လိုင်းနည်းနည်းလေး နှေးနေလို့ ဝင်မဝင် စစ်ပေးပါဦးနော်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခဏလေးစောင့်ပေးပါနော် အခုချက်ချင်း ထည့်ပေးပါ့မယ်။", "is_me": true, "is_image": false },
+        { "message": "မင်္ဂလာပါ name ။ သူငယ်ချင်းက ငွေလွှဲခိုင်းထားလို့ KPay ကနေ အခုပဲ လွှဲလိုက်ပါတယ်။ လိုင်းနည်းနည်းလေး နှေးနေလို့ ဝင်မဝင် စစ်ပေးပါဦးနော်။", "is_me": false, "is_image": false },
+        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေရောက်ပါတယ် အခုချက်ချင်း ထည့်ပေးပါ့မယ်ခင်ဗျ ။", "is_me": true, "is_image": false },
         { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ 🌟🙌", "is_me": true, "is_image": false },
-        { "message": "ဝင်သွားပြီဆိုတော့ စိတ်အေးရပါပြီဗျာ။ name က တကယ် ယုံကြည်ရပါတယ်။ အမှန်ကန်လုပ်ပေးလို့ ကျေးဇူးတင်ပါတယ်။ နောက်လည်း ထပ်ဝယ်အားပေးပါဦးမယ်။ 🙌✨", "is_me": false, "is_image": false }
+        { "message": "Done ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ 🌟🙌", "is_me": true, "is_image": false },
+        { "message": "ဝင်လာ ပြီဆိုတော့ စိတ်အေးရပါပြီ ။ name က တကယ် ယုံကြည်ရပါတယ်။ အမှန်ကန်လုပ်ပေးလို့ ကျေးဇူးတင်ပါတယ်။ နောက်လည်း ထပ်ဝယ်အားပေးပါဦးမယ်။ 🙌✨", "is_me": false, "is_image": false }
       ]
     },
     {
       "chat_id": 104,
       "messages": [
         { "message": "အစ်ကိုရေ.. အရေးပေါ် ငွေလိုနေတဲ့ကိစ္စလေးရှိလို့ပါ။ Wave money ကနေ ငွေလွှဲပြီးပါပြီနော်။ ဝင်မဝင်လေး တစ်ချက်စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော် ခဏလေးစောင့်ပေးပါ။", "is_me": true, "is_image": false },
+        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။  ခုထည့်ပေးပါ့မယ်နော် ခဏလေးစောင့်ပေးပါ။", "is_me": true, "is_image": false },
         { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ 🚀🔥", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီ။ အမှန်တကယ် လုပ်ပေးလို့ ကျေးဇူးအများကြီးတင်ပါတယ်ဗျာ။ name ကို အရမ်းယုံကြည်စိတ်ချရပါတယ်။ နောက်တစ်ခေါက်အတွက်လည်း ကြိုတင်ပြောထားချင်ပါတယ်။ 👍👍", "is_me": false, "is_image": false }
+        { "message": "ငွေလွဲဲပီးပြီးခင်ဗျ ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ 🚀🔥", "is_me": true, "is_image": false },
+        { "message": "ငွေရောက်လာပါပြီ ။ အမှန်တကယ် လုပ်ပေးလို့ ကျေးဇူးအများကြီးတင်ပါတယ်။ name ကို အရမ်းယုံကြည်စိတ်ချရပါတယ်။ နောက်တစ်ခေါက်အတွက်လည်း ကြိုတင်ပြောထားချင်ပါတယ်။ 👍👍", "is_me": false, "is_image": false }
       ]
     },
     {
       "chat_id": 105,
       "messages": [
-        { "message": "ညီမလေးရေ.. ဒီနေ့ အလှူအတွက် ငွေသွင်းစရာရှိလို့ KPay ကနေ လွှဲလိုက်ပါပြီ။ လိုင်းမကောင်းလို့ ဝင်မဝင် စစ်ပေးပါဦး စိတ်ပူလို့ပါ။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်။ ခုထည့်ပေးပါ့မယ်နော် စိတ်မပူပါနဲ့။", "is_me": true, "is_image": false },
+        { "message": "ညီလေးရေ.. ဒီနေ့ အလှူအတွက် ငွေသွင်းစရာရှိလို့ KPay ကနေ လွှဲလိုက်ပါပြီ။ လိုင်းမကောင်းလို့ ဝင်မဝင် စစ်ပေးပါဦး စိတ်ပူလို့ပါ။", "is_me": false, "is_image": false },
+        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ခုထည့်ပေးပါ့မယ်နော် စိတ်မပူပါနဲ့။", "is_me": true, "is_image": false },
         { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ ✨💫", "is_me": true, "is_image": false },
+        { "message": "KPay Done ပါခင်ဗျ ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ ✨💫", "is_me": true, "is_image": false },
         { "message": "ရောက်သွားပြီဆိုတော့ စိတ်အေးရပါပြီရှင်။ name က တကယ် ယုံကြည်ရပါတယ်။ အမှန်ကန်လုပ်ဆောင်ပေးလို့ ကျေးဇူးအထူးတင်ပါတယ်နော်။ နောက်လည်း အမြဲအားပေးပါ့မယ်။ 🙏💖", "is_me": false, "is_image": false }
       ]
     },
     {
       "chat_id": 106,
       "messages": [
-        { "message": "မင်္ဂလာပါ ခင်ဗျာ။ ငွေလွှဲစရာလေးရှိလို့ Wave ကနေ လွှဲလိုက်ပါတယ်။ လိုင်းမကောင်းလို့ ဝင်မဝင် စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
+        { "message": "မင်္ဂလာပါ အကို​ေရ ။ ငွေလွှဲစရာလေးရှိလို့ Wave ကနေ လွှဲလိုက်ပါတယ်။ ရောက်ရင် ပြန်ထည့်ပေးပါအုံး ။", "is_me": false, "is_image": false },
+        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
         { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ 👏🎉", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားလို့ ကျေးဇူးပါဗျာ။ name က သုံးရတာ တကယ်အဆင်ပြေပြီး ယုံကြည်ရပါတယ်။ နောက်လည်း ထပ်အားပေးပါ့မယ်။ 🙌", "is_me": false, "is_image": false }
+        { "message": " ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ 👏🎉", "is_me": true, "is_image": false },
+        { "message": "ရောက်သွားလို့ ကျေးဇူးပါ 😍😍 ။ name က သုံးရတာ တကယ်အဆင်ပြေပြီး ယုံကြည်ရပါတယ်။ နောက်လည်း ထပ်အားပေးပါ့မယ်။ 🙌", "is_me": false, "is_image": false }
       ]
     },
     {
       "chat_id": 107,
       "messages": [
         { "message": "အစ်ကိုရေ.. အပြင်မှာ ငွေလွှဲလိုက်တာ အခုပဲ KPay ရောက်သွားလား မသိဘူး။ လိုင်းတွေကျနေလို့ စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော် ခဏလေးပါ။", "is_me": true, "is_image": false },
+        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်", "is_me": true, "is_image": false },
         { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ 👍✨", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီနော်။ အမှန်ကန်လုပ်ပေးလို့ ကျေးဇူးတင်ပါတယ်။ name ကို အရမ်းယုံကြည်ပါတယ်။ နောက်ထပ် ဝယ်သုံးဖို့အတွက်လည်း ချန်ထားပေးပါဦး။ ✌️😊", "is_me": false, "is_image": false }
+        { "message": "ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်ခင်ဗျ ။ 👍✨", "is_me": true, "is_image": false },
+        { "message": "ရောက်လာ ပါပြီနော်။ အမှန်ကန်လုပ်ပေးလို့ ကျေးဇူးတင်ပါတယ်။ name ကို အရမ်းယုံကြည်ပါတယ်။ နောက်ထပ် ဝယ်သုံးဖို့အတွက်လည်း ချန်ထားပေးပါဦး။ ✌️😊", "is_me": false, "is_image": false }
       ]
     },
     {
       "chat_id": 108,
       "messages": [
-        { "message": "ညီမလေးရေ.. ငွေလွှဲလိုက်ပါပြီနော်။ Wave ကနေ လွှဲထားတာ ဝင်မဝင် နည်းနည်းလေး စစ်ပေးပါဦး။ စိတ်ပူလို့ပါ။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်။ ခုထည့်ပေးပါ့မယ်နော် စိတ်မပူပါနဲ့။", "is_me": true, "is_image": false },
+        { "message": "ညီလေးရေ.. ငွေလွှဲလိုက်ပါပြီနော်။ Wave ထဲ ရောက်လာ း", "is_me": false, "is_image": false },
+        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေ ရောက်ပါတယ် ", "is_me": true, "is_image": false },
         { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ 💖🌸", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပြီဆိုတော့ စိတ်ချရပါပြီရှင်။ name က တကယ်စိတ်ချရပါတယ်။ အမှန်အတိုင်းလုပ်ပေးလို့ ကျေးဇူးတင်ပါတယ်၊ နောက်လည်း ထပ်အားပေးပါ့မယ်။ 🌺", "is_me": false, "is_image": false }
+        { "message": "ငွေခုထည့်ပေးလိုက်ပြီနော်... ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်။ 💖🌸", "is_me": true, "is_image": false },
+        { "message": "ရောက်သွားပြီဆိုတော့ ပျော်လိုက်တာ ။ name က တကယ်စိတ်ချရပါတယ်။ အမှန်အတိုင်းလုပ်ပေးလို့ ကျေးဇူးတင်ပါတယ်၊ နောက်လည်း ထပ်အားပေးပါ့မယ်။ 🌺", "is_me": false, "is_image": false }
       ]
     },
     {
       "chat_id": 109,
       "messages": [
-        { "message": "အခုပဲ KPay ကနေ ငွေလွှဲလိုက်ပါပြီဗျာ။ လိုင်းက နည်းနည်း ဆိုးနေလို့ ဝင်မဝင် သိရအောင် စစ်ပေးပါဦးနော်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်ဗျ။", "is_me": true, "is_image": false },
+        { "message": "အခုပဲ KPay ကနေ ငွေလွှဲလိုက်ပါပြီ bro ရောက်လား ", "is_me": false, "is_image": false },
+        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ", "is_me": true, "is_image": false },
         { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ 🙏🔥", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားလို့ ကျေးဇူးပါဗျာ။ တကယ်ယုံကြည်ရပါတယ်။ နောက်တစ်ခေါက်အတွက်လည်း မှာထားချင်ပါတယ်။ 💯", "is_me": false, "is_image": false }
+        { "message": "Done Par ခင်ဗျား ။ ဝယ်ယူအားပေးမှုအတွက်  ကျေးဇူးဗျာ 🙏🔥", "is_me": true, "is_image": false },
+        { "message": "ရောက်လာ လို့ ကျေးဇူးပါ name ။ တကယ်ယုံကြည်ရပါတယ်။ နောက်တစ်ခေါက်အတွက်လည်း မှာထားချင်ပါတယ်။ 💯", "is_me": false, "is_image": false }
       ]
     },
     {
       "chat_id": 110,
       "messages": [
-        { "message": "ညီမလေးရေ.. အခုလေးတင် Wave ကနေ ငွေလွှဲလိုက်ပါတယ်။ ဝင်မဝင်လေး စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
+        { "message": "ယုံကြည်ပါတယ် name ရေ ", "is_me": false, "is_image": false },
+        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
         { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ 🌷✨", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ အမှန်ကန်လုပ်ပေးလို့ ကျေးဇူးတင်ပါတယ်။ name ကို အမြဲယုံကြည်ပြီး ဆက်အားပေးပါ့မယ်။ 😊", "is_me": false, "is_image": false }
+        { "message": "ငွေလွှဲ ပြီး ပါပြီ ခင်ဗျ  🌷✨", "is_me": true, "is_image": false },
+        { "message": "ရောက်လာပြီး  အမှန်ကန်လုပ်ပေးလို့ ကျေးဇူးတင်ပါတယ်။ name ကို အမြဲယုံကြည်ပြီး ဆက်အားပေးပါ့မယ်။ 😊", "is_me": false, "is_image": false }
       ]
     },
     {
       "chat_id": 111,
       "messages": [
-        { "message": "အစ်ကိုရေ.. Kpay ကနေ လွှဲလိုက်ပါပြီဗျာ။ လိုင်းမကောင်းလို့ ဝင်၊ မဝင် နည်းနည်းစစ်ပေးပါဦး။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
+        { "message": "အစ်ကိုရေ.. Kpay ကနေ လွှဲလိုက်ပါပြီဗျာ။ name ဆီ ရောက်လား ", "is_me": false, "is_image": false },
+        { "message": "ငွေစစ်ပြီး  ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
         { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ 👍🎉", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ အမှန်တကယ်လုပ်ပေးလို့ ကျေးဇူးတင်ပါတယ်။ နောက်လည်း အမြဲအားပေးပါ့မယ်။ ✌️", "is_me": false, "is_image": false }
+        { "message": "ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်ခင်ဗျ ။ 👍🎉", "is_me": true, "is_image": false },
+        { "message": "​ေပျာ်လိုက်တာ  အမှန်တကယ်လုပ်ပေးလို့ ကျေးဇူးတင်ပါတယ်။ နောက်လည်း အမြဲအားပေးပါ့မယ်။ ✌️", "is_me": false, "is_image": false }
       ]
     },
     {
       "chat_id": 112,
       "messages": [
-        { "message": "အခုပဲ Wave ကနေ ငွေလွှဲလိုက်ပါတယ်နော်။ ဝင်မဝင်လေး နည်းနည်းစစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
+        { "message": "kpay ထဲ ထည့်ပေးလိုက်တာ အပေါ်က wave နံပါတ် ထဲ ပြန်ထည့်ပေးပါ ", "is_me": false, "is_image": false },
+        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ kpay to Wave လဲ ရပါတယ် ဗျ", "is_me": true, "is_image": false },
         { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ 💖", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ တကယ် ယုံကြည်စိတ်ချရပါတယ်။ ကျေးဇူးအများကြီးတင်ပါတယ်နော်။ 🌸", "is_me": false, "is_image": false }
+        { "message": "Done ဗျာ ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ် 💖", "is_me": true, "is_image": false },
+        { "message": "တကယ် ယုံကြည်စိတ်ချရပါတယ်။ ကျေးဇူးအများကြီးတင်ပါတယ်နော်။ 🌸", "is_me": false, "is_image": false }
       ]
     },
     {
       "chat_id": 113,
       "messages": [
-        { "message": "Kpay ကနေ ငွေလွှဲလိုက်ပါပြီဗျာ။ ဝင်သွားပြီလား စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
+        { "message": "အမှန်ကန်တော့ လုပ်ပေးပါနော် Bro", "is_me": false, "is_image": false },
+        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။  ခုထည့်ပေးပါ့မယ်။", "is_me": true, "is_image": false },
         { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ ✨", "is_me": true, "is_image": false },
+        { "message": "ငွေလွှဲပြီးသွားပါပြီ  ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်။ ✨", "is_me": true, "is_image": false },
         { "message": "အမှန်ကန်လုပ်ပေးလို့ ကျေးဇူးတင်ပါတယ်။ နောက်လည်း ထပ်အားပေးပါ့မယ်။ 👍", "is_me": false, "is_image": false }
       ]
     },
     {
       "chat_id": 114,
       "messages": [
-        { "message": "Wave ကနေ လွှဲလိုက်ပါပြီနော်။ ရောက်မရောက် စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
+        { "message": "Wave ကနေ လွှဲလိုက်ပါပြီနော်။ ရောက်မရောက် စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
+        { "message": " ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
         { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်။ 🌷", "is_me": true, "is_image": false },
+        { "message": "Wave Money Done 🌷", "is_me": true, "is_image": false },
         { "message": " ကျေးဇူးတင်ပါတယ်။ name ကို ယုံကြည်လို့ နောက်လည်း ထပ်အားပေးပါ့မယ်။ 😊", "is_me": false, "is_image": false }
       ]
     },
     {
       "chat_id": 115,
       "messages": [
-        { "message": "အခုပဲ Kpay လွှဲလိုက်တယ်ဗျာ။ စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
+        { "message": "အခုပဲ Kpay နဲ့  လွှဲလိုက်တယ်။ စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
         { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
         { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးζူးတင်ပါတယ်နော်။ 👏", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ အမှန်အတိုင်းလုပ်ပေးလို့ ကျေးဇူးတင်ပါတယ်။ ✌️", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 116,
-      "messages": [
-        { "message": "Wave ကနေ ငွေလွှဲပြီးပါပြီနော်။ ဝင်မဝင်လေး စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 💖", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ ကျေးဇူးတင်ပါတယ်။ name က တကယ်စိတ်ချရပါတယ်။ 🌸", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 117,
-      "messages": [
-        { "message": "Kpay နဲ့ လွှဲလိုက်ပါပြီဗျာ။ ဝင်သွားလား စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 ✨", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ အမှန်ကန်လုပ်ပေးလို့ ကျေးဇူးတင်ပါတယ်။ 👍", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 118,
-      "messages": [
-        { "message": "Wave ကနေ အခုပဲ လွှဲလိုက်ပါပြီနော်။ ရောက်မရောက် စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 🌷", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ ကျေးဇူးတင်ပါတယ်။ နောက်လည်း ထပ်အားပေးပါ့မယ်။ 😊", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 119,
-      "messages": [
-        { "message": "Kpay ကနေ ငွေလွှဲပြီးပါပြီဗျာ။ စစ်ပေးပါဦးနော်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 👏", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ အမှန်ကန်လုပ်ပေးလို့ ကျေးဇူးတင်ပါတယ်။ ✌️", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 120,
-      "messages": [
-        { "message": "Wave ကနေ လွှဲလိုက်ပါပြီနော်။ ဝင်မဝင်လေး စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 💖", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ ကျေးဇူးတင်ပါတယ်။ 🌸", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 121,
-      "messages": [
-        { "message": "Kpay လွှဲလိုက်ပါပြီဗျာ။ စစ်ပေးပါဦးနော်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 ✨", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ ကျေးဇူးတင်ပါတယ်။ 👍", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 122,
-      "messages": [
-        { "message": "Wave ကနေ ငွေလွှဲပြီးပါပြီနော်။ စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 🌷", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ ကျေးဇူးတင်ပါတယ်။ 😊", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 123,
-      "messages": [
-        { "message": "Kpay လွှဲလိုက်ပါပြီဗျာ။ ဝင်မဝင် စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 👏", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ ကျေးဇူးတင်ပါတယ်။ ✌️", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 124,
-      "messages": [
-        { "message": "Wave ကနေ လွှဲလိုက်ပါပြီနော်။ ဝင်မဝင် စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 💖", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ ကျေးဇူးတင်ပါတယ်။ 🌸", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 125,
-      "messages": [
-        { "message": "Kpay ကနေ လွှဲလိုက်ပါပြီဗျာ။ စစ်ပေးပါဦးနော်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 ✨", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ ကျေးဇူးတင်ပါတယ်။ 👍", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 126,
-      "messages": [
-        { "message": "Wave နဲ့ လွှဲလိုက်ပါပြီနော်။ စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 🌷", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ ကျေးဇူးတင်ပါတယ်။ 😊", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 127,
-      "messages": [
-        { "message": "Kpay လွှဲလိုက်ပါပြီဗျာ။ ဝင်မဝင် စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 👏", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ ကျေးဇူးတင်ပါတယ်။ ✌️", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 128,
-      "messages": [
-        { "message": "Wave ကနေ ငွေလွှဲပြီးပါပြီနော်။ ဝင်မဝင် စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 💖", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ ကျေးဇူးတင်ပါတယ်။ 🌸", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 129,
-      "messages": [
-        { "message": "Kpay လွှဲလိုက်ပါပြီဗျာ။ စစ်ပေးပါဦးနော်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 ✨", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ ကျေးဇူးတင်ပါတယ်။ 👍", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 130,
-      "messages": [
-        { "message": "Wave လွှဲလိုက်ပါပြီနော်။ စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေlွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 🌷", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ ကျေးဇူးတင်ပါတယ်။ 😊", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 131,
-      "messages": [
-        { "message": "Kpay ကနေ လွှဲလိုက်ပါပြီဗျာ။ ဝင်မဝင် စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 👏", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ ကျေးဇူးတင်ပါတယ်။ ✌️", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 132,
-      "messages": [
-        { "message": "Wave ကနေ လွှဲလိုက်ပါပြီနော်။ စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 💖", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ ကျေးဇူးတင်ပါတယ်။ 🌸", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 133,
-      "messages": [
-        { "message": "Kpay လွှဲလိုက်ပါပြီဗျာ။ စစ်ပေးပါဦးနော်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 ✨", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ ကျေးဇူးတင်ပါတယ်။ 👍", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 134,
-      "messages": [
-        { "message": "Wave ကနေ လွှဲလိုက်ပါပြီနော်။ ဝင်မဝင် စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 🌷", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ ကျေးဇူးတင်ပါတယ်။ 😊", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 135,
-      "messages": [
-        { "message": "Kpay ကနေ လွှဲလိုက်ပါပြီဗျာ။ ဝင်မဝင် စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 👏", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ ကျေးဇူးတင်ပါတယ်။ ✌️", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 136,
-      "messages": [
-        { "message": "Wave ကနေ လွှဲလိုက်ပါပြီနော်။ စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 💖", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ ကျေးဇူးတင်ပါတယ်။ 🌸", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 137,
-      "messages": [
-        { "message": "Kpay လွှဲလိုက်ပါပြီဗျာ။ စစ်ပေးပါဦးနော်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 ✨", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ ကျေးဇူးတင်ပါတယ်။ 👍", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 138,
-      "messages": [
-        { "message": "Wave လွှဲလိုက်ပါပြီနော်။ ဝင်မဝင် စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 🌷", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ ကျေးဇူးတင်ပါတယ်။ 😊", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 139,
-      "messages": [
-        { "message": "Kpay ကနေ လွှဲလိုက်ပါပြီဗျာ။ စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 👏", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ ကျေးဇူးတင်ပါတယ်။ ✌️", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 140,
-      "messages": [
-        { "message": "Wave ကနေ လွှဲလိုက်ပါပြီနော်။ စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 💖", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ ကျေးဇူးတင်ပါတယ်။ 🌸", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 141,
-      "messages": [
-        { "message": "Kpay လွှဲလိုက်ပါပြီဗျာ။ စစ်ပေးပါဦးနော်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 ✨", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ ကျေးဇူးတင်ပါတယ်။ 👍", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 142,
-      "messages": [
-        { "message": "Wave လွှဲလိုက်ပါပြီနော်။ ဝင်မဝင် စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 🌷", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ ကျေးဇူးတင်ပါတယ်။ 😊", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 143,
-      "messages": [
-        { "message": "Kpay ကနေ လွှဲလိုက်ပါပြီဗျာ။ စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 👏", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ ကျေးဇူးတင်ပါတယ်။ ✌️", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 144,
-      "messages": [
-        { "message": "Wave ကနေ လွှဲလိုက်ပါပြီနော်။ စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 💖", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ ကျေးဇူးတင်ပါတယ်။ 🌸", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 145,
-      "messages": [
-        { "message": "Kpay လွှဲလိုက်ပါပြီဗျာ။ စစ်ပေးပါဦးနော်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 ✨", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ ကျေးဇူးတင်ပါတယ်။ 👍", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 146,
-      "messages": [
-        { "message": "Wave လွှဲလိုက်ပါပြီနော်။ စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 🌷", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီရှင်။ ကျေးဇူးတင်ပါတယ်။ 😊", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 147,
-      "messages": [
-        { "message": "Kpay လွှဲလိုက်ပါပြီဗျာ။ စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 👏", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ ကျေးဇူးတင်ပါတယ်။ ✌️", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 148,
-      "messages": [
-        { "message": "Wave ကနေ လွှဲလိုက်ပါပြီနော်။ စစ်ပေးပါဦး။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 💖", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီ။ ကျေးဇူးတင်ပါတယ်။ 🌸", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 149,
-      "messages": [
-        { "message": "Kpay လွှဲလိုက်ပါပြီဗျာ။ စစ်ပေးပါဦးနော်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[kpay] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ။ ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 ✨", "is_me": true, "is_image": false },
-        { "message": "ရောက်သွားပါပြီဗျာ။ ကျေးဇူးတင်ပါတယ်။ 👍", "is_me": false, "is_image": false }
-      ]
-    },
-    {
-      "chat_id": 150,
-      "messages": [
-        { "message": "Wave လွှဲလိုက်ပါပြီနော်။ စစ်ပေးပါဦးရှင်။", "is_me": false, "is_image": false },
-        { "message": "ဟုတ်ကဲ့ပါခင်ဗျာ။ ငွေစစ်ပေးပါ့မယ်၊ ခုထည့်ပေးပါ့မယ်နော်။", "is_me": true, "is_image": false },
-        { "message": "[wave] https://receipt.url", "is_me": true, "is_image": true },
-        { "message": "ငွေလွှဲတာ အောင်မြင်သွားပါပြီ。 ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးဇူးတင်ပါတယ်နော်。 🌷", "is_me": true, "is_image": false },
-        { "message": "ရောက်လာပါပြီး။ ကျေးဇူးတင်ပါတယ်။ 😊", "is_me": false, "is_image": false }
+        { "message": "ငွေလွှဲ လိုက်ပါပြီ  ဝယ်ယူအားပေးမှုအတွက် name မှ ကျေးζူးတင်ပါတယ်နော်။ 👏", "is_me": true, "is_image": false },
+        { "message": "ဝမ်းသာလိုက်တာ🤗🤗 မှန်အတိုင်းလုပ်ပေးလို့ ကျေးဇူးတင်ပါတယ်။ ✌️", "is_me": false, "is_image": false }
       ]
     }
   ]
